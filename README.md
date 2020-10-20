@@ -12,7 +12,7 @@ I can put an important summary here
 They got rid of my favorite manatee website, so [here](https://www.nationalgeographic.com/animals/mammals/group/manatees) is a new one.
 
 ### BOO!
-![alt text](https://github.com/cdanyko/tfcb_homework02/images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg "Scary Pic")
+![scary](https://github.com/cdanyko/tfcb-homework02/blob/master/messy-project-directory/images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg?raw=true)
 
 
 ### And last, but not least, check out my table!
